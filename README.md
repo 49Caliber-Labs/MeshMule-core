@@ -5,7 +5,7 @@
 [![Wire Frame](https://img.shields.io/badge/Wire_Protocol-32_Byte_Binary_(0xA1%2F0xB2)-ffb800.svg)](#2-the-32-byte-binary-wire-protocol-0xa1--0xb2)
 [![Cryptographic Auth](https://img.shields.io/badge/Authentication-SipHash--2--4_(32--Bit_MAC)-emerald.svg)](#3-cryptographic-anti-spoofing--rtc-clock-drift-calibration)
 [![GIS Export](https://img.shields.io/badge/Agency_Ingestion-RFC_7946_GeoJSON_%2B_CSV-blue.svg)](#6-agency-collector-gateway--gis-data-ingestion)
-[![Sponsor](https://img.shields.io/badge/Sponsor-49Caliber_Labs-ff1e56.svg)](https://github.com/sponsors/J-O-E-L-T)
+[![Sponsor](https://img.shields.io/badge/Sponsor-49Caliber_Labs-ff1e56.svg)](https://github.com/J-O-E-L-T#-github-sponsors--research-grants-why-back-my-work)
 
 > **Developed by [49Caliber Labs](https://github.com/49Caliber-Labs) (Principal Architect: [Joel T.](https://github.com/J-O-E-L-T))**  
 > *An open-source, pure-digital 915 MHz LoRa / Meshtastic delay-tolerant telemetry transport, distributed barometric phased-array ($\nabla P$), passive RF atmospheric tomography engine, and GPS-denied canyon search-and-rescue (SAR) positioning stack engineered for backcountry scientific data harvesting (USGS, NPS, USFS, NOAA, CDFW, NRCS).*
@@ -165,6 +165,6 @@ Open `http://localhost:3100` to launch the **MeshMule-Core 915 MHz Transceiver &
 
 **MeshMule-Core** is maintained by **[49Caliber Labs](https://github.com/49Caliber-Labs)** as open-source public-interest infrastructure for off-grid environmental telemetry, conservation hydrology, and wilderness search-and-rescue.
 
-- **Sponsor via GitHub Sponsors:** [github.com/sponsors/J-O-E-L-T](https://github.com/sponsors/J-O-E-L-T)
+- **Sponsorship & Research Grant Tiers:** [github.com/J-O-E-L-T (Sponsorship & Grant Matrix)](https://github.com/J-O-E-L-T#-github-sponsors--research-grants-why-back-my-work)
 - **Commercial Companion Platform:** Integrated with **[BiteWindow Vector7](https://github.com/49Caliber-Labs/bitewindow-vector7)** (7-Vector Hydrologic, Solunar, & Microclimate Telemetry Engine indexing 34,651 nationwide USGS waterways).
 - **License:** MIT License — see [LICENSE](LICENSE).
