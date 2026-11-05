@@ -1,0 +1,302 @@
+{
+  "YOS-G1:1402": {
+    "dedupKey": "YOS-G1:1402",
+    "rawHex": "A1265E594F532D47317A051CDCAE35A6FFAAC20450199C01D803ABDE1D5A6F00",
+    "decoded": {
+      "magic": 161,
+      "rawHex": "A1265E594F532D47317A051CDCAE35A6FFAAC20450199C01D803ABDE1D5A6F00",
+      "dedupKey": "YOS-G1:1402",
+      "stationCallsign": "YOS-G1",
+      "sequenceNumber": 1402,
+      "domain": 2,
+      "domainLabel": "NPS Geothermal & Seismic Logger",
+      "batteryPercent": 94,
+      "solarCharging": true,
+      "tamperAlert": false,
+      "thresholdExceeded": false,
+      "relativeAgeSeconds": 420,
+      "harvestedAtUtc": 1793847990203,
+      "correctedSampleUtc": 1793847570203,
+      "lat": 37.7459,
+      "lon": -119.5332,
+      "elevationMeters": 1218,
+      "primaryMetric": {
+        "label": "Vent Temp",
+        "value": 64.8,
+        "unit": "°C"
+      },
+      "secondaryMetric": {
+        "label": "Soil Gas Flux",
+        "value": 412,
+        "unit": "ppm"
+      },
+      "tertiaryMetric": {
+        "label": "Tremor RMS",
+        "value": 98.4,
+        "unit": "µm/s"
+      },
+      "stepIntervalMinutes": 15,
+      "reconstructedTimeSeries": [
+        {
+          "timestampUtc": 1793843970203,
+          "value": 64.2
+        },
+        {
+          "timestampUtc": 1793844870203,
+          "value": 64.3
+        },
+        {
+          "timestampUtc": 1793845770203,
+          "value": 64.5
+        },
+        {
+          "timestampUtc": 1793846670203,
+          "value": 64.6
+        },
+        {
+          "timestampUtc": 1793847570203,
+          "value": 64.8
+        }
+      ],
+      "embeddedMacHex": "006F5A1D",
+      "computedMacHex": "006F5A1D",
+      "macVerified": true
+    },
+    "firstHarvestedAtUtc": 1793847570203,
+    "lastWitnessedAtUtc": 1793847990216,
+    "witnessCount": 2,
+    "witnessNodeHashes": [
+      "W-SEED01",
+      "W-4A9157"
+    ],
+    "anonymousContributorToken": "MULE-GATEWAY-SEED",
+    "syncStatus": "SYNCED_TO_COLLECTOR",
+    "syncedAtUtc": 1793847990216,
+    "collectorReceiptId": "RCPT-6AEBF2B6"
+  },
+  "MRC-H4:8891": {
+    "dedupKey": "MRC-H4:8891",
+    "rawHex": "A116594D52432D4834BB220C3BA43582E7AAD90374048502240454322AD0D801",
+    "decoded": {
+      "magic": 161,
+      "rawHex": "A116594D52432D4834BB220C3BA43582E7AAD90374048502240454322AD0D801",
+      "dedupKey": "MRC-H4:8891",
+      "stationCallsign": "MRC-H4",
+      "sequenceNumber": 8891,
+      "domain": 1,
+      "domainLabel": "USGS Backcountry Hydro Gauge",
+      "batteryPercent": 89,
+      "solarCharging": true,
+      "tamperAlert": false,
+      "thresholdExceeded": false,
+      "relativeAgeSeconds": 180,
+      "harvestedAtUtc": 1793847990203,
+      "correctedSampleUtc": 1793847810203,
+      "lat": 37.7167,
+      "lon": -119.6658,
+      "elevationMeters": 985,
+      "primaryMetric": {
+        "label": "Water Temp",
+        "value": 11.4,
+        "unit": "°C"
+      },
+      "secondaryMetric": {
+        "label": "Discharge Flow",
+        "value": 645,
+        "unit": "CFS"
+      },
+      "tertiaryMetric": {
+        "label": "Dissolved O2",
+        "value": 10.6,
+        "unit": "mg/L"
+      },
+      "stepIntervalMinutes": 15,
+      "reconstructedTimeSeries": [
+        {
+          "timestampUtc": 1793844210203,
+          "value": 11.9
+        },
+        {
+          "timestampUtc": 1793845110203,
+          "value": 11.8
+        },
+        {
+          "timestampUtc": 1793846010203,
+          "value": 11.7
+        },
+        {
+          "timestampUtc": 1793846910203,
+          "value": 11.6
+        },
+        {
+          "timestampUtc": 1793847810203,
+          "value": 11.4
+        }
+      ],
+      "embeddedMacHex": "01D8D02A",
+      "computedMacHex": "01D8D02A",
+      "macVerified": true
+    },
+    "firstHarvestedAtUtc": 1793847810203,
+    "lastWitnessedAtUtc": 1793847990216,
+    "witnessCount": 2,
+    "witnessNodeHashes": [
+      "W-SEED01",
+      "W-4A9157"
+    ],
+    "anonymousContributorToken": "MULE-GATEWAY-SEED",
+    "syncStatus": "SYNCED_TO_COLLECTOR",
+    "syncedAtUtc": 1793847990216,
+    "collectorReceiptId": "RCPT-6AEBF2B6"
+  },
+  "SNF-F9:3110": {
+    "dedupKey": "SNF-F9:3110",
+    "rawHex": "A1394E534E462D4639260C3CE166355EECAA6806180B1000D0028888DA4FEADE",
+    "decoded": {
+      "magic": 161,
+      "rawHex": "A1394E534E462D4639260C3CE166355EECAA6806180B1000D0028888DA4FEADE",
+      "dedupKey": "SNF-F9:3110",
+      "stationCallsign": "SNF-F9",
+      "sequenceNumber": 3110,
+      "domain": 3,
+      "domainLabel": "USFS Wildfire Fuel Moisture Logger",
+      "batteryPercent": 78,
+      "solarCharging": false,
+      "tamperAlert": false,
+      "thresholdExceeded": true,
+      "relativeAgeSeconds": 900,
+      "harvestedAtUtc": 1793847990203,
+      "correctedSampleUtc": 1793847090203,
+      "lat": 37.54819,
+      "lon": -119.63911,
+      "elevationMeters": 1640,
+      "primaryMetric": {
+        "label": "Canopy Air Temp",
+        "value": 28.4,
+        "unit": "°C"
+      },
+      "secondaryMetric": {
+        "label": "Relative Humidity",
+        "value": 16,
+        "unit": "%"
+      },
+      "tertiaryMetric": {
+        "label": "10-Hr Fuel Moisture",
+        "value": 7.2,
+        "unit": "%"
+      },
+      "stepIntervalMinutes": 30,
+      "reconstructedTimeSeries": [
+        {
+          "timestampUtc": 1793839890203,
+          "value": 27.6
+        },
+        {
+          "timestampUtc": 1793841690203,
+          "value": 27.6
+        },
+        {
+          "timestampUtc": 1793843490203,
+          "value": 27.6
+        },
+        {
+          "timestampUtc": 1793845290203,
+          "value": 27.6
+        },
+        {
+          "timestampUtc": 1793847090203,
+          "value": 28.4
+        }
+      ],
+      "embeddedMacHex": "DEEA4FDA",
+      "computedMacHex": "DEEA4FDA",
+      "macVerified": true
+    },
+    "firstHarvestedAtUtc": 1793847090203,
+    "lastWitnessedAtUtc": 1793847990216,
+    "witnessCount": 2,
+    "witnessNodeHashes": [
+      "W-SEED01",
+      "W-4A9157"
+    ],
+    "anonymousContributorToken": "MULE-GATEWAY-SEED",
+    "syncStatus": "SYNCED_TO_COLLECTOR",
+    "syncedAtUtc": 1793847990216,
+    "collectorReceiptId": "RCPT-6AEBF2B6"
+  },
+  "KLM-R2:5204": {
+    "dedupKey": "KLM-R2:5204",
+    "rawHex": "A1465B4B4C4D2D5232541415480E3B5828A8270128052600D4033221FCF81638",
+    "decoded": {
+      "magic": 161,
+      "rawHex": "A1465B4B4C4D2D5232541415480E3B5828A8270128052600D4033221FCF81638",
+      "dedupKey": "KLM-R2:5204",
+      "stationCallsign": "KLM-R2",
+      "sequenceNumber": 5204,
+      "domain": 4,
+      "domainLabel": "CDFW Salmonid Thermal Refugia",
+      "batteryPercent": 91,
+      "solarCharging": true,
+      "tamperAlert": false,
+      "thresholdExceeded": false,
+      "relativeAgeSeconds": 315,
+      "harvestedAtUtc": 1793847990203,
+      "correctedSampleUtc": 1793847675203,
+      "lat": 41.5236,
+      "lon": -123.5284,
+      "elevationMeters": 295,
+      "primaryMetric": {
+        "label": "Refugia Pool Temp",
+        "value": 13.2,
+        "unit": "°C"
+      },
+      "secondaryMetric": {
+        "label": "Conductance",
+        "value": 38,
+        "unit": "µS/cm"
+      },
+      "tertiaryMetric": {
+        "label": "Dissolved O2",
+        "value": 9.8,
+        "unit": "mg/L"
+      },
+      "stepIntervalMinutes": 15,
+      "reconstructedTimeSeries": [
+        {
+          "timestampUtc": 1793844075203,
+          "value": 13.5
+        },
+        {
+          "timestampUtc": 1793844975203,
+          "value": 13.4
+        },
+        {
+          "timestampUtc": 1793845875203,
+          "value": 13.4
+        },
+        {
+          "timestampUtc": 1793846775203,
+          "value": 13.3
+        },
+        {
+          "timestampUtc": 1793847675203,
+          "value": 13.2
+        }
+      ],
+      "embeddedMacHex": "3816F8FC",
+      "computedMacHex": "3816F8FC",
+      "macVerified": true
+    },
+    "firstHarvestedAtUtc": 1793847680203,
+    "lastWitnessedAtUtc": 1793847990216,
+    "witnessCount": 2,
+    "witnessNodeHashes": [
+      "W-SEED01",
+      "W-4A9157"
+    ],
+    "anonymousContributorToken": "MULE-GATEWAY-SEED",
+    "syncStatus": "SYNCED_TO_COLLECTOR",
+    "syncedAtUtc": 1793847990216,
+    "collectorReceiptId": "RCPT-6AEBF2B6"
+  }
+}

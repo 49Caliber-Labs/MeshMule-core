@@ -1,0 +1,47 @@
+{
+  "name": "@49caliber-labs/meshmule-core",
+  "version": "1.0.0",
+  "private": false,
+  "description": "MeshMule-Core: Open-Source 915 MHz Off-Grid Citizen-Science Delay-Tolerant Networking (DTN), Distributed Barometric Phased-Array, Passive RF Atmospheric Tomography, & GPS-Denied Canyon SAR Engine.",
+  "type": "module",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/49Caliber-Labs/MeshMule-core.git"
+  },
+  "keywords": [
+    "meshtastic",
+    "lora",
+    "915mhz",
+    "delay-tolerant-networking",
+    "citizen-science",
+    "barometric-phased-array",
+    "rf-tomography",
+    "gps-denied-sar",
+    "usgs",
+    "nps",
+    "off-grid-telemetry"
+  ],
+  "scripts": {
+    "dev": "vite --port=3100 --host=0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "lucide-react": "^0.546.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.14",
+    "@types/node": "^22.14.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^5.0.4",
+    "tailwindcss": "^4.1.14",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0",
+    "vite-plugin-pwa": "^1.2.0"
+  }
+}
