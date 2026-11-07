@@ -1,14 +1,17 @@
-# 📡 MeshMule-Core: 915 MHz Off-Grid Citizen-Science Delay-Tolerant Networking (DTN), Barometric Phased-Array & GPS-Denied SAR Engine
+<div align="center">
+  <img src="https://raw.githubusercontent.com/49Caliber-Labs/.github/main/assets/meshmule-hero-banner.svg" alt="MeshMule-Core — 32-Byte Sub-GHz LoRa DTN Telemetry & Barometric Array Engine" width="100%" />
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-10b981.svg)](LICENSE)
-[![RF Band](https://img.shields.io/badge/ISM_Band-902--928_MHz_LoRa-00d2ff.svg)](#1-system-architecture--wire-protocol)
-[![Wire Frame](https://img.shields.io/badge/Wire_Protocol-32_Byte_Binary_(0xA1%2F0xB2)-ffb800.svg)](#2-the-32-byte-binary-wire-protocol-0xa1--0xb2)
-[![Cryptographic Auth](https://img.shields.io/badge/Authentication-SipHash--2--4_(32--Bit_MAC)-emerald.svg)](#3-cryptographic-anti-spoofing--rtc-clock-drift-calibration)
-[![GIS Export](https://img.shields.io/badge/Agency_Ingestion-RFC_7946_GeoJSON_%2B_CSV-blue.svg)](#6-agency-collector-gateway--gis-data-ingestion)
-[![Sponsor](https://img.shields.io/badge/Sponsor-49Caliber_Labs-ff1e56.svg)](https://github.com/J-O-E-L-T#-github-sponsors--research-grants-why-back-my-work)
+  <br />
 
-> **Developed by [49Caliber Labs](https://github.com/49Caliber-Labs) (Principal Architect: [Joel T.](https://github.com/J-O-E-L-T))**  
-> *An open-source, pure-digital 915 MHz LoRa / Meshtastic delay-tolerant telemetry transport, distributed barometric phased-array ($\nabla P$), passive RF atmospheric tomography engine, and GPS-denied canyon search-and-rescue (SAR) positioning stack engineered for backcountry scientific data harvesting (USGS, NPS, USFS, NOAA, CDFW, NRCS).*
+  [![License: MIT](https://img.shields.io/badge/License-MIT-059669?style=for-the-badge)](LICENSE)
+  [![RF Band](https://img.shields.io/badge/ISM_Band-868_%2F_915_MHz_LoRa-0284c7?style=for-the-badge)](#1-system-architecture--wire-protocol)
+  [![Wire Frame](https://img.shields.io/badge/Wire_Protocol-32_Byte_Binary_(0xA1%2F0xB2)-d97706?style=for-the-badge)](#2-the-32-byte-binary-wire-protocol-0xa1--0xb2)
+  [![Cryptographic Auth](https://img.shields.io/badge/Authentication-SipHash--2--4_MAC-0d9488?style=for-the-badge)](#3-cryptographic-anti-spoofing--rtc-clock-drift-calibration)
+  [![Sponsor](https://img.shields.io/badge/Sponsor-49Caliber_Labs-e11d48?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/J-O-E-L-T#-github-sponsors--research-grants-why-back-my-work)
+</div>
+
+> **Developed by [49Caliber Labs, Inc.](https://github.com/49Caliber-Labs) (Principal Architect: [Joel T.](https://github.com/J-O-E-L-T))**  
+> *An open-source, pure-digital 868/915 MHz LoRa / Meshtastic delay-tolerant telemetry transport, distributed barometric phased-array ($\nabla P$), passive RF atmospheric tomography engine, and GPS-denied canyon search-and-rescue (SAR) positioning stack engineered for backcountry scientific data harvesting (USGS, NPS, USFS, NOAA, CDFW, NRCS, and EU INSPIRE).*
 
 ---
 
